@@ -2,8 +2,6 @@
 
 This repository holds the source code for the [Astro Course](https://astrocourse.dev/) demo.
 
-![Astro Course Cover Image](./course-cover.jpg)
-
 > **[Astro Course](https://astrocourse.dev/)** is a hands-on course to teach you how to build websites using Astro 3.0, the all-in-one framework for the modern web.
 
 ## Full-stack Markdown Blog
